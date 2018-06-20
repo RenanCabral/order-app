@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="OrderApp.exe" version="1.0.0.1" publicKeyToken="30e4642aa0280cdb" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="OrderApp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="OrderApp.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OrderApp.exe" size="7616">
+      <assemblyIdentity name="OrderApp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>3NamZKkHUTAz2WbykEMSEDqDUE2Nm9poj1uR5TTRqRk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OrderApp.DAL.dll" size="6144">
+      <assemblyIdentity name="OrderApp.DAL" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>DXlyX3VQA4zg9fgQxO8XSJ7a/IXWf5Pz+kFxlbNai2Q=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OrderApp.Model.dll" size="4608">
+      <assemblyIdentity name="OrderApp.Model" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>DcfDea7H86tiAATW+07BtiGmBGndf/vTKFHHPcmAZ/w=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OrderApp.Service.dll" size="11264">
+      <assemblyIdentity name="OrderApp.Service" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>vDIH+qVDngaeWULvSG8TnQx1FZrp9RTslpGOHh9u8xY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="OrderApp.exe.config" size="278">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>VxkpU1ogsLNHRVQ2LijiwWeuohW+HoxfkcaAe3C7Zy4=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=RENAN-NOTE\Renan" issuerKeyHash="5afc00468aa6f27eab99df879770113179f2a1ad" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>UAZgyfhlGpjN3XKucZQyY5RXa+HicnpZZQrwucjI9Mw=</DigestValue></Reference></SignedInfo><SignatureValue>PGaErElTVai/BBsRhQWx8HxdG9ylLtKfwH+Jg63X1vlHcoo9dnxBtAakbQ+J5yUn7ijLl7mBrmvVevIw35NZptgU4ZTG4HKtRR3QBuX2Q3X++eIFP1gBDlBye6ptzfnjsqwUvW/KZr8Yv/7Mw1rEwG5Y4mtXf8ukpJ4bcYB3rwo=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>0QvpPwJLuXOmsVK2uRCSNjquVI3D1ukq+a3bjGMslvYiZT/lxm/pr7m2nz450M+TXunrq4+7UisL+DiTcUDmdNVmtgLRunOsyiE/2DraIqxSxGRAheSveUQUGpyL+pclhrBjocvKMksHDZdUkzM8HOjmwDi0HRXD6epqNQeEkwk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ccf4c8c8b9f00a65597a72e2e16b579463329471ae72ddcd981a65f8c9600650" Description="" Url=""><as:assemblyIdentity name="OrderApp.exe" version="1.0.0.1" publicKeyToken="30e4642aa0280cdb" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=RENAN-NOTE\Renan</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>eRPfRdtpXTE3715qgwqw/LwwsfH5L3pURbErdoZ4e1c=</DigestValue></Reference></SignedInfo><SignatureValue>HXBrFtHD980hQRzL+kCYEBttqeEWwUg7jYivUreetMsQaX4CoSh2J1ngRw3bsAzhkxYtTxM0gxNuuItS2rKTNbr13+XB05ra6ezrL46vKqx9xSMoiKqTDoN4qI7NlLfFOU4af1nIj63f7avawtAsCVhFgXaUG6H4u5XcRuvv1eg=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>0QvpPwJLuXOmsVK2uRCSNjquVI3D1ukq+a3bjGMslvYiZT/lxm/pr7m2nz450M+TXunrq4+7UisL+DiTcUDmdNVmtgLRunOsyiE/2DraIqxSxGRAheSveUQUGpyL+pclhrBjocvKMksHDZdUkzM8HOjmwDi0HRXD6epqNQeEkwk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQQ3B7Wk8/465NANWY7j4j4zANBgkqhkiG9w0BAQsFADArMSkwJwYDVQQDHiAAUgBFAE4AQQBOAC0ATgBPAFQARQBcAFIAZQBuAGEAbjAeFw0xODA2MTkxNzM3MjJaFw0xOTA2MTkyMzM3MjJaMCsxKTAnBgNVBAMeIABSAEUATgBBAE4ALQBOAE8AVABFAFwAUgBlAG4AYQBuMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDRC+k/Aku5c6axUra5EJI2Oq5UjcPW6Sr5rduMYyyW9iJlP+XGb+mvubafPjnQz5Ne6eurj7tSKwv4OJNxQOZ01Wa2AtG6c6zKIT/YOtoirFLEZECF5K95RBQanIv6lyWGsGOhy8oySwcNl1STMzwc6ObAOLQdFcPp6mo1B4STCQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAHMXL+LrMdb84So3/dqEeJy6pZwQdoBXtub3v2IA8qFUxroyXxYH/cH15LPJ2ob25QaGtQFjutkHJDmhIq1zwjkDV/aosjkkT+/e+Du9hkZmatLMU8uCJdNrqARYnfliBrvLvN5Cf9fpzQIjwhJkBwr4jVSUq0Uh4uhvxARm5CmK</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,7 @@
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL\bin\Release\OrderApp.DAL.dll.config
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL\bin\Release\OrderApp.DAL.dll
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL\bin\Release\OrderApp.DAL.pdb
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL\obj\Release\OrderApp.DAL.csprojAssemblyReference.cache
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL\obj\Release\OrderApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL\obj\Release\OrderApp.DAL.dll
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL\obj\Release\OrderApp.DAL.pdb

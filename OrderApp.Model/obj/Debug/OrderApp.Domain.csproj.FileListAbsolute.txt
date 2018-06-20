@@ -1,0 +1,6 @@
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.Model\bin\Debug\OrderApp.Model.dll
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.Model\bin\Debug\OrderApp.Model.pdb
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.Model\obj\Debug\OrderApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.Model\obj\Debug\OrderApp.Model.dll
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.Model\obj\Debug\OrderApp.Model.pdb
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.Model\obj\Debug\OrderApp.Domain.csprojAssemblyReference.cache

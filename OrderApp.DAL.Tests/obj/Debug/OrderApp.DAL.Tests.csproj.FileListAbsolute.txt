@@ -1,0 +1,17 @@
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL.Tests\bin\Debug\OrderApp.DAL.Tests.dll
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL.Tests\bin\Debug\OrderApp.DAL.Tests.pdb
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL.Tests\bin\Debug\OrderApp.DAL.dll
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL.Tests\bin\Debug\OrderApp.DAL.pdb
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL.Tests\bin\Debug\OrderApp.DAL.dll.config
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL.Tests\obj\Debug\OrderApp.DAL.Tests.csprojAssemblyReference.cache
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL.Tests\obj\Debug\OrderApp.DAL.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL.Tests\obj\Debug\OrderApp.DAL.Tests.csproj.CopyComplete
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL.Tests\obj\Debug\OrderApp.DAL.Tests.dll
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL.Tests\obj\Debug\OrderApp.DAL.Tests.pdb

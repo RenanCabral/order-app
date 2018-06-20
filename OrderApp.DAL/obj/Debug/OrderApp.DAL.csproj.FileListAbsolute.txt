@@ -1,0 +1,6 @@
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL\bin\Debug\OrderApp.DAL.dll.config
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL\bin\Debug\OrderApp.DAL.dll
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL\bin\Debug\OrderApp.DAL.pdb
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL\obj\Debug\OrderApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL\obj\Debug\OrderApp.DAL.dll
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.DAL\obj\Debug\OrderApp.DAL.pdb

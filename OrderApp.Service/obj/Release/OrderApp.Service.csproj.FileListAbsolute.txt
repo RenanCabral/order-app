@@ -1,0 +1,13 @@
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.Service\bin\Release\OrderApp.Service.dll.config
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.Service\bin\Release\OrderApp.Service.dll
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.Service\bin\Release\OrderApp.Service.pdb
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.Service\bin\Release\OrderApp.DAL.dll
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.Service\bin\Release\OrderApp.Model.dll
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.Service\bin\Release\OrderApp.DAL.pdb
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.Service\bin\Release\OrderApp.DAL.dll.config
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.Service\bin\Release\OrderApp.Model.pdb
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.Service\obj\Release\OrderApp.Service.csprojAssemblyReference.cache
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.Service\obj\Release\OrderApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.Service\obj\Release\OrderApp.Service.csproj.CopyComplete
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.Service\obj\Release\OrderApp.Service.dll
+C:\Users\Renan\Desktop\OrderApp\OrderApp\OrderApp.Service\obj\Release\OrderApp.Service.pdb
