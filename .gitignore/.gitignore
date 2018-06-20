@@ -1,0 +1,8 @@
+*.vs
+*.cache
+*.user
+[Rr]elease*/
+[Dd]ebug*/
+[Pp]ackages*/
+[Bb]in*/
+/OpenCover
